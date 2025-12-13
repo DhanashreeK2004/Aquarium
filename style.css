@@ -1,0 +1,61 @@
+html{scroll-behavior:smooth;}
+body{background:radial-gradient(circle at left, rgba(0,195,255,0.25),transparent 60%),#0a0f1f;font-family:sans-serif;margin:0;height:3740px;}
+.header{width:1000px;height:3000px;margin:0 auto;}
+.menu{width:1000px;height:80px;}
+.menu1{width:300px;height:80px;float:left;}
+.menu1 img{width:200px;height:80px;margin-left:20px;margin-top:5px;}
+.menunav{width:140px;height:40px;float:left;margin-top:20px;margin-right:2px;}
+.menunav1{width:100px;height:40px;float:left;margin-top:20px;margin-right:2px;}
+.menunav1 h1{font-family:sans-serif;font-size:15px;color:white;text-align:right;}
+.menunav h1{font-family:sans-serif;font-size:15px;color:white;text-align:right;}
+.menunav h1 a{color:white;text-decoration:none;font-size:15px;transition:0.3s;}
+.menunav h1 a:hover{color:#00d4ff;transform:scale(1.1);display:inline-block;}
+.menunav1 h1 a{color:white;text-decoration:none;font-size:15px;transition:0.3s;}
+.menunav1 h1 a:hover{color:#00d4ff;transform:scale(1.1);display:inline-block;}
+.home{width:1000px;height:500px;}
+.home1{width:700px;height:40px;}
+.home2{width:1000px;height:500px;}
+.home21{width:500px;height:200px;float:left;margin-top:100px;}
+.home22{width:500px;height:500px;float:left;}
+.home21 p{font-family:sans-serif;font-size:20px;color:white;text-align:center;}
+.home21 img{width:430px;height:210px;}
+.home1 h1{font-family:"Trebuchet MS","Segoe UI",sans-serif;font-size:50px;text-align:center;color:white;}
+.home22 img{width:350px;height:500px;align-items:right;margin-left:100px;}
+.home3{width:1000px;height:500px;}
+.home31{width:430px;height:500px;float:left;}
+.home31 img{width:430px;height:500px;align-items:left;margin-top:0px;}
+.home32{width:500px;height:500px;float:left;}
+.home32 h1{font-family:"Trebuchet MS","Segoe UI",sans-serif;font-size:40px;text-align:center;color:white;}
+.home32 p{font-family:sans-serif;font-size:20px;color:white;text-align:center;}
+.fish{width:1000px;height:900px;}
+.fish1{width:500px;height:80px;margin-left:30px;display:flex;align-items:flex-top;}
+.fish1 h1{font-family:"Trebuchet MS","Segoe UI",sans-serif;font-size:40px;text-align:center;color:white;}
+.fish2{width:1000px;height:350px;margin-top:50px;}
+.fish3{width:300px;height:350px;margin-left:25px;float:left;border-radius:20px;background:rgba(255,255,255,0.10);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,0.3);color:white;transition:0.3s;}
+.fish3:hover{transform:scale(1.05);}
+.fishimg{width:250px;height:250px;margin-left:25px;margin-top:25px;border-radius:20px;}
+.fishimg img{width:250px;height:250px;border-radius:20px;}
+.fishname{width:300px;height:75px;}
+.fishname h1{font-family:"Trebuchet MS","Segoe UI",sans-serif;font-size:30px;text-align:center;color:white;}
+.tank{width:1000px;height:500px;margin-top:20px;}
+.tank1{width:800px;height:80px;margin-left:30px;display:flex;align-items:flex-top;}
+.tank1 h1{font-family:"Trebuchet MS","Segoe UI",sans-serif;font-size:40px;text-align:center;color:white;}
+.service{width:1000px;height:500px;margin-top:40px;}
+.service1{margin-top:50px;width:600px;height:450px;}
+.service2{width:400px;height:500px;float:left;}
+.service2 img{width:400px;height:700px;}
+.service1 li{font-family:sans-serif;font-size:25px;color:white;text-align:left;margin-bottom:30px;}
+.fisho h1{font-family:"Trebuchet MS","Segoe UI",sans-serif;font-size:40px;text-align:center;color:white;}
+.fisho{width:500px;height:100px;margin-left:30px;display:flex;align-items:flex-top;}
+.service11{width:600px;height:500px;float:left;}
+.contact{width:1000px;height:600px;}
+.contact21{width:500px;height:600px;float:left;}
+.contact22{width:500px;height:500px;float:left;margin-top:100px;}
+.contact21 img{width:450px;height:600px;}
+.contact1{width:500px;height:80px;margin-top:140px;}
+.contact1  h1{font-family:"Trebuchet MS","Segoe UI",sans-serif;font-size:40px;text-align:center;color:white;}
+.contact2{width:460px;height:250px;margin-left:60px;}
+.contact2 p{font-family:sans-serif;font-size:25px;color:white;text-align:left;}
+.footer{width:1000px;height:30px;}
+.footer h1{font-family:"Trebuchet MS","Segoe UI",sans-serif;font-size:15px;text-align:center;color:white;}
+
